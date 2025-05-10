@@ -1,4 +1,1 @@
-# parcial2
-
-#Nombre Completo: Kami Matsumi Takegami Benavides
-#Codigo: A00372826
+# try
